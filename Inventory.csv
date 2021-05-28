@@ -1,0 +1,21 @@
+Id,Product,Company,Country,Price,Sold
+1,S 1000 RR,BMW,Germany,34770,14
+2,K 1600 GTL,BMW,Germany,12163,8
+3,C 650 GT,BMW,Germany,7727,0
+4,CBR 600 RR,BMW,Germany,19299,2
+5,CBR 900,BMW,Germany,25273,11
+6,959 Panigale,Ducati,Italy,28993,3
+7,899 Panigale,Ducati,Italy,17605,0
+8,Streetfigther S,Ducati,Italy,19657,35
+9,Streetfigther v4,Ducati,Italy,32411,12
+10,Monster 659,Ducati,Italy,15999,2
+11,Ninja 400,Kawasaki,Japan,4999,82
+12,Ninja H2,Kawasaki,Japan,29000,5
+13,Z125 PRO,Kawasaki,Japan,3199,2
+14,Z650,Kawasaki,Japan,7249,6
+15,Z900,Kawasaki,Japan,8999,17
+16,MT-03,YAMAHA,Japan,4999,43
+17,MT-07,YAMAHA,Japan,7599,72
+18,YZF-R6,YAMAHA,Japan,12199,25
+19,NIKEN,YAMAHA,Japan,15999,10
+20,Tracer 900,YAMAHA,Japan,10699,0
